@@ -1,1 +1,2 @@
 # spotify-clone
+A Spotify Clone is a web application that replicates the core features of Spotify, such as user authentication, music streaming, creating and managing playlists, browsing songs by artists, albums, or genres, and a responsive user interface. It often includes real-time music controls, search functionality, and media playback using APIs or local music data for a seamless user experience. Depending on the scope, it can also feature audio visualization, recommendations, and social sharing features.
